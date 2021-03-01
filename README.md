@@ -8,7 +8,7 @@ A POWERFUL DISCORD MUSIC BOT BY PARAS
 NO YT API REQUIRED 
 
 SUPPORT SERVER 
-https://discord.gg/akYvjDK
+https://discord.gg/7tRzHZje3u
 
 
 
